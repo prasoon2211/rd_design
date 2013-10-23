@@ -1,0 +1,57 @@
+#container {
+    min-width: 708px;
+}
+
+#topbox {
+    width: 100%;
+    height: 127px;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+#logobox {
+    padding: 5px;
+    float: left;
+    clear: left;
+    background-color: #E8330F;
+    width: 117px;
+}
+
+#contentbox {
+    margin-left: 120px;
+    height: 127px;
+}
+
+#navbar {
+    padding: 20px 20px 20px 0px;
+}
+
+#navbar nav ul {
+    margin: 0;
+    padding: 0;
+}
+#navbar nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#navbar nav ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 5px 15px;
+    margin: 1px;
+}
+
+#infobar {
+    padding: 0px 10px 34px 5px;
+}
+
+#infobar span {
+    margin-left: 0.7em;
+}
+#cartbox {
+    clear: both;
+}
