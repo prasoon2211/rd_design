@@ -12,11 +12,10 @@
 }
 
 #logobox {
-    padding: 5px;
+    padding: 5px 10px;
     float: left;
     clear: left;
     background-color: #E8330F;
-    width: 117px;
 }
 
 #contentbox {
