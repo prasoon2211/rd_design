@@ -1,12 +1,12 @@
 $(document).ready(function(){
-    $('#logobox').mouseenter(function(){
+    $('#navbar a').mouseenter(function(){
         $(this).animate({
-            'backgroundColor': "#92230D",
-        }, 200, function(){});
+            'backgroundColor': "#f6f6f6",
+        }, 250, function(){});
     });
-    $('#logobox').mouseleave(function(){
+    $('#navbar a').mouseleave(function(){
         $(this).animate({
-            'backgroundColor': "#E8330F",
-        }, 200, function(){});
+            'backgroundColor': "#fff",
+        }, 250, function(){});
     });
 });
